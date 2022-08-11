@@ -1,3 +1,5 @@
+export error for qbcore fix
+
 # renzu_vehicleshop
 FIVEM VEHICLE SHOP HUD (WIP) v1 to v2 progress
 Stable version here - > https://github.com/renzuzu/renzu_vehicleshop/releases/tag/v1final
